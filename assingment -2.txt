@@ -1,0 +1,60 @@
+a) var a = 1;
+console.log(typeof(a));
+
+// output=Number
+
+
+b) var b = 1.1;
+
+console.log(typeof(b));
+
+// output=Number
+
+
+c) var c='1.1';
+
+console.log(typeof(c));
+
+// output=String
+
+
+d) var d=true;
+
+console.log(typeof(d));
+
+// output=Boolean
+
+
+e) var e=null;
+
+console.log(typeof(e));
+
+// output=Object
+
+
+f) var f = undefined;
+
+console.log(typeof(f));
+
+// output=undefined
+
+
+g) var g=[];
+
+console.log(typeof(g));
+
+// output=empty array or Object
+
+
+h) var h={};
+
+console.log(typeof(h));
+
+// output=Object
+
+
+i) var i=NaN;
+
+console.log(typeof(i));
+
+// output=Number
